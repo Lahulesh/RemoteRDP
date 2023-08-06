@@ -1,0 +1,16 @@
+Z:\Visual Studio 2022\RDP\RDP\bin\Debug\RDP.exe.config
+Z:\Visual Studio 2022\RDP\RDP\bin\Debug\RDP.exe
+Z:\Visual Studio 2022\RDP\RDP\bin\Debug\RDP.pdb
+Z:\Visual Studio 2022\RDP\RDP\bin\Debug\Interop.MSTSCLib.dll
+Z:\Visual Studio 2022\RDP\RDP\bin\Debug\AxInterop.MSTSCLib.dll
+Z:\Visual Studio 2022\RDP\RDP\obj\Debug\RDP.csproj.AssemblyReference.cache
+Z:\Visual Studio 2022\RDP\RDP\obj\Debug\RDP.csproj.SuggestedBindingRedirects.cache
+Z:\Visual Studio 2022\RDP\RDP\obj\Debug\Interop.MSTSCLib.dll
+Z:\Visual Studio 2022\RDP\RDP\obj\Debug\AxInterop.MSTSCLib.dll
+Z:\Visual Studio 2022\RDP\RDP\obj\Debug\RDP.csproj.ResolveComReference.cache
+Z:\Visual Studio 2022\RDP\RDP\obj\Debug\RDP.Form1.resources
+Z:\Visual Studio 2022\RDP\RDP\obj\Debug\RDP.Properties.Resources.resources
+Z:\Visual Studio 2022\RDP\RDP\obj\Debug\RDP.csproj.GenerateResource.cache
+Z:\Visual Studio 2022\RDP\RDP\obj\Debug\RDP.csproj.CoreCompileInputs.cache
+Z:\Visual Studio 2022\RDP\RDP\obj\Debug\RDP.exe
+Z:\Visual Studio 2022\RDP\RDP\obj\Debug\RDP.pdb
